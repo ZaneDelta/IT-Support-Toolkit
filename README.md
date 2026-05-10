@@ -25,4 +25,4 @@ This project demonstrates:
 - IT support workflow understanding
 
 ## Author
-Razan Mahardhika
+Zane Delta
